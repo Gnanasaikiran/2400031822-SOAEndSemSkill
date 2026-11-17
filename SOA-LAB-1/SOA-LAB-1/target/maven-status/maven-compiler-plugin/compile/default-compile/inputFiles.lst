@@ -1,0 +1,13 @@
+/Users/avinashreddypadala/Documents/ChatGPT/SOA-LAB-1/src/main/java/com/example/soa/SoaLabApplication.java
+/Users/avinashreddypadala/Documents/ChatGPT/SOA-LAB-1/src/main/java/com/example/soa/automation/Automation.java
+/Users/avinashreddypadala/Documents/ChatGPT/SOA-LAB-1/src/main/java/com/example/soa/automation/AutomationController.java
+/Users/avinashreddypadala/Documents/ChatGPT/SOA-LAB-1/src/main/java/com/example/soa/automation/AutomationService.java
+/Users/avinashreddypadala/Documents/ChatGPT/SOA-LAB-1/src/main/java/com/example/soa/automation/CreateAutomationRequest.java
+/Users/avinashreddypadala/Documents/ChatGPT/SOA-LAB-1/src/main/java/com/example/soa/automation/InMemoryAutomationService.java
+/Users/avinashreddypadala/Documents/ChatGPT/SOA-LAB-1/src/main/java/com/example/soa/common/ApiExceptionHandler.java
+/Users/avinashreddypadala/Documents/ChatGPT/SOA-LAB-1/src/main/java/com/example/soa/common/ResourceNotFoundException.java
+/Users/avinashreddypadala/Documents/ChatGPT/SOA-LAB-1/src/main/java/com/example/soa/user/CreateUserRequest.java
+/Users/avinashreddypadala/Documents/ChatGPT/SOA-LAB-1/src/main/java/com/example/soa/user/InMemoryUserService.java
+/Users/avinashreddypadala/Documents/ChatGPT/SOA-LAB-1/src/main/java/com/example/soa/user/User.java
+/Users/avinashreddypadala/Documents/ChatGPT/SOA-LAB-1/src/main/java/com/example/soa/user/UserController.java
+/Users/avinashreddypadala/Documents/ChatGPT/SOA-LAB-1/src/main/java/com/example/soa/user/UserService.java
